@@ -3,18 +3,18 @@ Storyboard
 
 Thema
 -----
-The live in GIBZ, ist ein Blog über das Leben am GIBZ. Die Seite wird selbst gemachte Fotos und Videos am und vom GIBZ mit Kurz Beschreibungen enthalten.
+The live in GIBZ, ist ein Blog über das Leben am GIBZ. Die Seite wird selbst gemachte Fotos und Videos am und vom GIBZ mit kurz Beschreibungen enthalten.
 Durch die Wahl des Themas sind wir in der Lage während dem regulären Schulunterricht eigene Fotos und Videos zu erstellen ohne das Gebäude gross zu verlassen. Zudem bietet der Blog gute Möglichkeiten
-sich künstlerisch auszuleben und etwas ästhetisches zu Erschaffen. Auch es den Vorteil, dass jeder das GIBZ kennt.
+sich künstlerisch auszuleben und etwas ästhetisches zu Erschaffen. Auch hat es den Vorteil, dass jeder das GIBZ kennt.
 
 Inhalte
 -------
 ### Quellen
-Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigen Arbeit und Medien aus dem Internet nützen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
-Auch möchten wir die Möglichkeit nutzten selbst Illustrationen zu gestellten und diese als Logo usw. einzusetzen.
+Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigen Arbeit und Medien aus dem Internet nutzen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
+Auch möchten wir die Möglichkeit nutzten selbst Illustrationen zu gestallten und diese als Logo usw. einzusetzen.
 
 ### Aufbereitung
-Die Medien werden anhand der Internet Verbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur verfügung stellen.
+Die Medien werden anhand der Internet Verbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur Verfügung stellen.
 
 ### Videos
 ***Abmessungen***
@@ -31,8 +31,9 @@ Um die bestmögliche Abdekung der verschiedenen Browsern zu erhalten werden wir 
 - WebM
 
 ***Untertitel***
-Damit unsere Videos auch ohne Tohn geschaut werden können werden wir diese Untertitel verwenden:
+Damit unsere Videos auch ohne Ton geschaut werden können werden wir diese Untertitel verwenden:
 - Deutsch
+- Niederländisch
 
 ### Fotos
 ***Abmessungen***
@@ -73,6 +74,7 @@ Das Bearbeiten der Bildern und Videos werden wir, wenn möglich, mit open source
 
 Aufbau und Struktur
 -------------------
+
 
 Arbeitsplanung
 --------------

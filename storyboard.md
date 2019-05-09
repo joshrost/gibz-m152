@@ -30,6 +30,10 @@ Um die bestmögliche Abdekung der verschiedenen Browsern zu erhalten werden wir 
 - MP4
 - WebM
 
+***Untertitel***
+Damit unsere Videos auch ohne Tohn geschaut werden können werden wir diese Untertitel verwenden:
+- Deutsch
+
 ### Fotos
 ***Abmessungen***
 Hoch, und Quer-kant

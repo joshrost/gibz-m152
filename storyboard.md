@@ -80,5 +80,11 @@ Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu B
 
 ***Mockups***
 
+![Mainsite](main.PNG)
+
+![Mainsite](focus.PNG)
+
+![Mainsite](main_scroll.PNG)
+
 Arbeitsplanung
 --------------

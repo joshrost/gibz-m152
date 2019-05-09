@@ -3,9 +3,8 @@ Storyboard
 
 Thema
 -----
-The live in GIBZ, ist ein Blog über das Leben am GIBZ. Die Seite wird selbst gemachte Fotos und Videos am und vom GIBZ mit kurz Beschreibungen enthalten.
-Durch die Wahl des Themas sind wir in der Lage während dem regulären Schulunterricht eigene Fotos und Videos zu erstellen ohne das Gebäude gross zu verlassen. Zudem bietet der Blog gute Möglichkeiten
-sich künstlerisch auszuleben und etwas ästhetisches zu Erschaffen. Auch hat es den Vorteil, dass jeder das GIBZ kennt.
+The live in GIBZ, ist ein Blog über das Leben am GIBZ. Die Seite wird selbst gemachte Fotos, Videos und Audioausschnitte am und vom GIBZ mit kurzen Beschreibungen enthalten.
+Durch die Wahl dieses Themas sind wir in der Lage den grössten Teil unserer Inhalte während dem regulären Schulunterricht zu erstellen. Zudem bietet der Blog gute Möglichkeiten sich künstlerisch auszuleben und etwas ästhetisches zu Erschaffen. Auch hat es den Vorteil, dass jeder das GIBZ kennt.
 
 Inhalte
 -------

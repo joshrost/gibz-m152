@@ -58,9 +58,9 @@ Um die bestmögliche Abdekung der verschiedenen Browsern zu erhalten werden wir 
 
 Bibliotheken und Frameworks
 ---------------------------
-| Name          | Beschreibung                                                                                                       |
-| ----          | ------------------------------------------------------------------------------------------------------------------ |
-| FontAwesome   | Icon Set framework um Icons als SVG auf der Seite zu nutzen                                                        |
+| Name            | Beschreibung                                                                                                       |
+| ----------------| ------------------------------------------------------------------------------------------------------------------ |
+| MaterialDesign  | Design Framework welches Icons und Optische Vorlagen für unsere Website mitbringt.                                 |
 
 Werkzeuge und Hilfsmittel
 -------------------------
@@ -74,7 +74,9 @@ Das Bearbeiten der Bildern und Videos werden wir, wenn möglich, mit open source
 
 Aufbau und Struktur
 -------------------
+Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu Blog Beiträge werden demnach immer am Start angefügt. Blogbeiträge bestehen immer aus einem Textbeitrag dem optional Bild, Video und/oder Audio Elemente angefügt werden können. 
 
+***Mockups***
 
 Arbeitsplanung
 --------------

@@ -37,12 +37,12 @@ Damit unsere Videos auch ohne Ton geschaut werden können werden wir diese Unter
 ### Fotos
 ***Abmessungen***
 Hoch, und Quer-kant
-- 2.160 Pixel: 3.840 x 2.160
-- 1.080 Pixel: 1.920 x 1.080
-- 720 Pixel: 1.280 x 720
-- 480 Pixel: 854 x 480
-- 360 Pixel: 640 x 360
-- 240 Pixel: 426 x 240
+- Breite 3.840px
+- Breite 1.920px
+- Breite 1.280px
+- Breite 854px
+- Breite 640px
+- Breite 426
 
 ***Formate***
 - JPG: Für Bilder aus dem Leben

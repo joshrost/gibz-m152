@@ -9,7 +9,7 @@ Durch die Wahl dieses Themas sind wir in der Lage den grössten Teil unserer Inh
 Inhalte
 -------
 ### Quellen
-Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigener Arbeit und Medien aus dem Internet nutzen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
+Die Bilder und Videos die wir nutzen werden wir zum Teil selber erstellen aber auch aus dem Internet beziehen.
 Auch möchten wir die Möglichkeit nutzten selbst Illustrationen zu gestallten und diese als Logo usw. einzusetzen.
 
 ### Aufbereitung
@@ -93,7 +93,7 @@ Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nich
 Beim scrollen wird der blaue Balken fortlaufen nach rechts erweitern.
 
 ![Mobie](assets/phone.PNG)
-Dies ist die Mobile Versio unseres Blogs.
+Dies ist die Mobile Versio unseres Blogs. Wir werden mithilfe von Art Direction die kompatibilitätzwischen Desktop und Mobile Version sichern.
 
 Arbeitsplanung
 --------------

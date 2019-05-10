@@ -82,9 +82,11 @@ Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu B
 ***Mockups***
 
 ![Mainsite](main.PNG)
-Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel des Beitrages. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen.
+Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen.
+
 
 ![Mainsite](focus.PNG)
+Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeit, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
 
 ![Mainsite](main_scroll.PNG)
 

@@ -9,11 +9,11 @@ Durch die Wahl dieses Themas sind wir in der Lage den grössten Teil unserer Inh
 Inhalte
 -------
 ### Quellen
-Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigen Arbeit und Medien aus dem Internet nutzen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
+Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigener Arbeit und Medien aus dem Internet nutzen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
 Auch möchten wir die Möglichkeit nutzten selbst Illustrationen zu gestallten und diese als Logo usw. einzusetzen.
 
 ### Aufbereitung
-Die Medien werden anhand der Internet Verbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur Verfügung stellen.
+Die Medien werden anhand der Internetverbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur Verfügung stellen.
 
 ### Videos
 ***Abmessungen***
@@ -51,7 +51,7 @@ Hoch, und Quer-kant
 
 ### Audio
 ***Formate***
-Um die bestmögliche Abdekung der verschiedenen Browsern zu erhalten werden wir folgende Formate verwenden:
+Um die bestmögliche Abdeckung der verschiedenen Browsern zu erhalten werden wir folgende Formate verwenden:
 - MP3
 - WAV
 
@@ -83,14 +83,14 @@ Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu B
 
 ![Main site](assets/main.PNG)
 
-Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen. Zudem ist zur besseren Orientierung Rechts eine Scrollbar mit den Upload Daten vorhanden.
+Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den dazu geposteten Text einsehen. Zudem ist zur besseren Orientierung Rechts eine Scrollbar mit den Upload Daten vorhanden.
 
 ![focus view](assets/focus.PNG)
 
-Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeit, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
+Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeigt, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
 
 ![Scrolled](assets/main_scroll.PNG)
-Beim scrollen wird isch der blaue Balken fortlaufen nach Rechts erweitern.
+Beim scrollen wird der blaue Balken fortlaufen nach rechts erweitern.
 
 Arbeitsplanung
 --------------

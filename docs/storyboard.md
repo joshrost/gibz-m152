@@ -92,3 +92,13 @@ Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nich
 
 Arbeitsplanung
 --------------
+| Woche | Arbeit |
+| --- | --- |
+| 17 Mai. | Arbeitspaket 20, 21 (Layout der Webseite) & 06 (Logo), 04 |
+| 24 Mai. | Arbeitspaket 01, 02, 03 (Foto, Video, Audio) |
+| 31 Mai. | Arbeitspaket 04, 05 (schneiden, editieren) & 07, 08, 11 |
+| 07 Jun. | Arbeitspaket 09, 10 & 12, 13, 14 |
+| 14 Jun. | Arbeitspaket 15, 16, 17, 19 |
+| Abgabe | Feiern|
+
+

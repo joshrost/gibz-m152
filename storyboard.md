@@ -64,23 +64,25 @@ Bibliotheken und Frameworks
 Werkzeuge und Hilfsmittel
 -------------------------
 
-| Hilfsmittel     | Beschreibung                                                                                                       |
-| ----------------| ------------------------------------------------------------------------------------------------------------------ |
-| Editor          | Für die Entwicklung des Blogs wird jeder sein Editor seiner Wahl verwenden.                                        |
-| Repository      | Wir verwenden [Git](https://git-scm.com/) mit einem privaten [Github](https://github.com) Repository für die Resourcen Verwaltung.                                                                                                                  |
-| Editor          | Dieses Storyboard und alle weiteren Dokumentationen werden mithilfe vom [Markdown](https://en.wikipedia.org/wiki/Markdown) erstellt um eine einfache, schnelle und universelle Formatierung zu erreichen.                |
-| Mockup          | Die im Storyboard verwendeten Mockups wurden mit dem Online Tool [MockFlow](https://mockflow.com/) erstellt.       |
-| Bildbearbeitung | Mit [GIMP](https://www.gimp.org/) werden wir die Bearbeitung der Bilder vornehmen.                                 |
-| Illustrationen  | Mithilfe von [Inkscape](https://inkscape.org/) werden wir die benötigten Illustrationen erstellen.                 |
+| Hilfsmittel | Beschreibung |
+| ---| --- |
+| Editor | Für die Entwicklung des Blogs wird jeder den Editor seiner Wahl verwenden. |
+| Repository | Wir verwenden [Git](https://git-scm.com/) mit einem privaten [Github](https://github.com) Repository für die Resourcen Verwaltung. |
+| Dokumentation | Dieses Storyboard und alle weiteren Dokumentationen werden mithilfe vom [Markdown](https://en.wikipedia.org/wiki/Markdown) erstellt um eine einfache, schnelle und universelle Formatierung zu erreichen. |
+| Mockup | Die im Storyboard verwendeten Mockups wurden mit dem Online Tool [MockFlow](https://mockflow.com/) erstellt. |
+| Bildbearbeitung | Mit [GIMP](https://www.gimp.org/) werden wir die Bearbeitung der Bilder vornehmen. |
+| Illustrationen  | Mithilfe von [Inkscape](https://inkscape.org/) werden wir die benötigten Illustrationen erstellen. |
+| Videobearbeitung | Die Videobearbeitungen werden wir mithilfe von [ffmpeg](https://ffmpeg.org/) durchführen |
 
 
 Aufbau und Struktur
 -------------------
-Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu Blog Beiträge werden demnach immer am Start angefügt. Blogbeiträge bestehen immer aus einem Textbeitrag dem optional Bild, Video und/oder Audio Elemente angefügt werden können. 
+Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu Blog Beiträge werden demnach immer am Start angefügt. Blogbeiträge bestehen immer aus einem Textbeitrag und einem Bild, Video oder Audio Elemente.  
 
 ***Mockups***
 
 ![Mainsite](main.PNG)
+Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel des Beitrages. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen.
 
 ![Mainsite](focus.PNG)
 

@@ -83,13 +83,14 @@ Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu B
 
 ![Main site](assets/main.PNG)
 
-Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen.
+Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen. Zudem ist zur besseren Orientierung Rechts eine Scrollbar mit den Upload Daten vorhanden.
 
 ![focus view](assets/focus.PNG)
 
 Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeit, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
 
 ![Scrolled](assets/main_scroll.PNG)
+Beim scrollen wird isch der blaue Balken fortlaufen nach Rechts erweitern.
 
 Arbeitsplanung
 --------------

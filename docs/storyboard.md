@@ -92,6 +92,9 @@ Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nich
 ![Scrolled](assets/main_scroll.PNG)
 Beim scrollen wird der blaue Balken fortlaufen nach rechts erweitern.
 
+![Scrolled](assets/Phone.PNG)
+Dies ist die Mobile Versio unseres Blogs.
+
 Arbeitsplanung
 --------------
 | Woche | Arbeit |

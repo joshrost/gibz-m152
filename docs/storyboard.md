@@ -9,11 +9,11 @@ Durch die Wahl dieses Themas sind wir in der Lage den grössten Teil unserer Inh
 Inhalte
 -------
 ### Quellen
-Für die Quellen der präsentierten Bildern werden wir eine Mischung aus eigen Arbeit und Medien aus dem Internet nutzen. Die eigen Arbeit wird aus selbst geschossenen Bildern und Videos, sowie auch deren Bearbeitung, bestehen.
+Die Bilder und Videos die wir nutzen werden wir zum Teil selber erstellen aber auch aus dem Internet beziehen.
 Auch möchten wir die Möglichkeit nutzten selbst Illustrationen zu gestallten und diese als Logo usw. einzusetzen.
 
 ### Aufbereitung
-Die Medien werden anhand der Internet Verbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur Verfügung stellen.
+Die Medien werden anhand der Internetverbindung des Users aufbereitet. Falls im laufe des Projektes grosse Videos entstehen, werden wir diese via Stream zur Verfügung stellen.
 
 ### Videos
 ***Abmessungen***
@@ -37,12 +37,12 @@ Damit unsere Videos auch ohne Ton geschaut werden können werden wir diese Unter
 ### Fotos
 ***Abmessungen***
 Hoch, und Quer-kant
-- 2.160 Pixel: 3.840 x 2.160
-- 1.080 Pixel: 1.920 x 1.080
-- 720 Pixel: 1.280 x 720
-- 480 Pixel: 854 x 480
-- 360 Pixel: 640 x 360
-- 240 Pixel: 426 x 240
+- Breite 3.840px
+- Breite 1.920px
+- Breite 1.280px
+- Breite 854px
+- Breite 640px
+- Breite 426
 
 ***Formate***
 - JPG: Für Bilder aus dem Leben
@@ -51,7 +51,7 @@ Hoch, und Quer-kant
 
 ### Audio
 ***Formate***
-Um die bestmögliche Abdekung der verschiedenen Browsern zu erhalten werden wir folgende Formate verwenden:
+Um die bestmögliche Abdeckung der verschiedenen Browsern zu erhalten werden wir folgende Formate verwenden:
 - MP3
 - WAV
 
@@ -83,14 +83,17 @@ Wir werden einen OnePager erstellen der Timeline mässig strukturiert ist. Neu B
 
 ![Main site](assets/main.PNG)
 
-Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den gazu geposteten Text einsehen. Zudem ist zur besseren Orientierung Rechts eine Scrollbar mit den Upload Daten vorhanden.
+Auf der Startseite sind alle Beitrage zeitlich untereinander angeordnet. Bei jedem Post ist das Bild, Video oder Audio Element ersichtlich und der dazugehörige Titel. Mit einem Klick auf den Beitrag kann man den dazu geposteten Text einsehen. Zudem ist zur besseren Orientierung Rechts eine Scrollbar mit den Upload Daten vorhanden.
 
 ![focus view](assets/focus.PNG)
 
-Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeit, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
+Diese ist die erweiterte Ansicht eines Blog Beitrages. Hier wird dem Nutzer nicht nur das Medium und der Titel des Posts angezeigt, sondern auch noch der dazugehörige Text. Am unteren Rand sollte zudem das Upload Datum ersichtlich sein.
 
 ![Scrolled](assets/main_scroll.PNG)
-Beim scrollen wird isch der blaue Balken fortlaufen nach Rechts erweitern.
+Beim scrollen wird der blaue Balken fortlaufen nach rechts erweitern.
+
+![Mobie](assets/phone.PNG)
+Dies ist die Mobile Versio unseres Blogs. Wir werden mithilfe von Art Direction die kompatibilitätzwischen Desktop und Mobile Version sichern.
 
 Arbeitsplanung
 --------------

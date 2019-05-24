@@ -21,3 +21,17 @@ html, body {
     width: 13em;
     background-color: #00538c;
 }
+
+/*---- Post ----*/
+.time-line {
+    margin-top: 5em;
+}
+
+.content img {
+}
+
+img.preview {
+    width: 50em;
+    border-radius: 0.8em;
+    object-fit: none;
+}

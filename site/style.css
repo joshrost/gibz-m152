@@ -21,3 +21,10 @@ html, body {
     width: 13em;
     background-color: #00538c;
 }
+.date-box {
+    width: 15%;
+    height: 400px;
+    border-right: 1px solid;
+    float: left;
+}
+

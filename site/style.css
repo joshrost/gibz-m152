@@ -21,6 +21,7 @@ html, body {
     width: 13em;
     background-color: #00538c;
 }
+<<<<<<< HEAD
 .date-box {
     width: 15%;
     height: 400px;
@@ -28,3 +29,19 @@ html, body {
     float: left;
 }
 
+=======
+
+/*---- Post ----*/
+.time-line {
+    margin-top: 5em;
+}
+
+.content img {
+}
+
+img.preview {
+    width: 50em;
+    border-radius: 0.8em;
+    object-fit: none;
+}
+>>>>>>> 97a24b14963b727dc2cc6c5ded715f4532390a0d

@@ -14,12 +14,20 @@ html, body {
     text-transform: uppercase;
     font-size: 2.5em;
     letter-spacing: 0.1em;
+    display: inline-block;
+    padding-left: 1em;
+}
+#logo {
+    height: 2.4em;
+    float: left;
+    padding-top: 0.2em;
+    display: inline-block;
 }
 
 #accent-strip {
-    margin: 0.5em 0 0 6em;
+    margin: 0.5em 0 0 10em;
     height: 0.3em;
-    width: 20em;
+    width: 22em;
     background-color: #03a9f4;
 }
 
@@ -43,6 +51,7 @@ footer {
     grid-column: 1;
     margin: 0 3em;
     padding: 0 3em;
+    padding-bottom: 8em;
     border-right: 1px solid #eceff1;
     text-align: right;
     display: flex;
@@ -51,13 +60,14 @@ footer {
 }
 
 .meta-info label {
-    font-size: 1.2em;
+    font-size: 1.6em;
     color: #808e95;
 }
 
 .content {
     grid-row: 1;
     grid-column: 2;
+    padding-bottom: 8em;
 }
 
 img.preview {
@@ -68,6 +78,7 @@ img.preview {
     grid-row: 1;
     grid-column: 3;
     margin: 0 3em;
+    padding-bottom: 8em;
 }
 
 .text h2 {

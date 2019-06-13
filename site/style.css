@@ -46,10 +46,19 @@ footer {
 }
 
 .post {
-    margin: 1em;
+    margin: 2em;
+}
+
+@media (min-width: 1080px) {
+    #trees {
+        width: 1500px;
+    }
 }
 
 @media (max-width: 1080px) {
+    #trees {
+        width: 720px;
+    }
 }
 
 .title-bar {

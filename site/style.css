@@ -35,7 +35,9 @@ html, body {
 footer {
     background-color: #03a9f4;
     margin: 8em 0 0 0;
+    /*display:inline-flex;*/
     padding: 2em 10em 3em 10em;
+    display: flex;
 }
 
 /*---- Post ----*/
@@ -97,4 +99,9 @@ footer {
 .text label{
     font-size: 1.4em;
     font-weight: lighter;
+}
+
+.footer-content {
+    width: 33%;
+    padding: 1em;
 }

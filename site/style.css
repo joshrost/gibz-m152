@@ -42,18 +42,28 @@ footer {
 
 /*---- Post ----*/
 .time-line {
-    margin: 4em 10em 0 10em;
     display: flex;
     flex-flow: row wrap;
+    /*margin: 4em 10em 0 10em;*/
+    justify-content: center;
 }
 
 .post {
-    margin: 2em;
+    /*margin: 2em;*/
 }
+
 
 @media (min-width: 1080px) {
     #trees {
         width: 1500px;
+    }
+
+    .time-line {
+        margin: 4em 10em 0 10em;
+    }
+
+    .post {
+        margin: 2em;
     }
 }
 
@@ -61,8 +71,24 @@ footer {
     #trees {
         width: 720px;
     }
+
+    .time-line {
+        margin: 4em 1em 0 1em;
+    }
+
+    .post {
+        margin: 2em 0;
+    }
 }
 
+@media (max-width: 720px) {
+    .time-line {
+        margin: 4em 0 0 0;
+    }
+    .post {
+        margin: 0;
+    }
+}
 .title-bar {
     font-size: 1.2em;
     margin: .3em;
